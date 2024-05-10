@@ -1,0 +1,332 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+  </head>
+  <style>
+    img {
+      height: 100px;
+      width: 110px;
+    }
+    a {
+      color: blue;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    body {
+      text-align: center;
+    }
+    table {
+      margin: auto;
+      outline: 2px solid black;
+    }
+    th {
+      outline: 2px solid black;
+    }
+    td {
+      outline: 2px solid black;
+    }
+  </style>
+  <h1>Unser Pflanzkalender</h1>
+  <h3>Jährlich erneuert</h3>
+  <table>
+    <tr>
+      <th>Beet</th>
+      <th>Reihe</th>
+      <th>Pflanzung 1</th>
+      <th>Pflanzung 2</th>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>Katoffel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>1</td>
+      <td></td>
+      <td>Zuckermais</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td>Mulch dünn (10cm)</td>
+      <td>Gurcken</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>1</td>
+      <td></td>
+      <td>Kürbis Melone</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td>Mulch dick(30cm)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>1</td>
+      <td></td>
+      <td>Tomaten</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td>Mulch dick(30cm)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>1</td>
+      <td></td>
+      <td>Zucchini</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td>Mulch dick(30)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>1</td>
+      <td>Katoffeln</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>1</td>
+      <td>Knollensellerie</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td>Kresse</td>
+      <td>Lauch + Zuckererbse</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td>Knoblauch + Erbsen</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>1</td>
+      <td>Beete + Möhre + Pastinake</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td>Kohlrabi + Palmkohl + Blumenkohl+ Grünkohl+Broccoli</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td>Mangold</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>1</td>
+      <td>Möhre</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td>Zwiebeln + Frühlingszwiebeln</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td>Möhre</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>1</td>
+      <td>Kohlrabi</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td>Romanasalat</td>
+      <td>Kohlrabi rot</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td>Kohlrabi</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>1</td>
+      <td>Eichblatt weiß Pflücksalat</td>
+      <td>Endivie</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td>Radieschen 17.4.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td>Fenchel + Eichblatt rot Pflücks.</td>
+      <td>Endivie + Zicchorie (Zuckerhut)</td>
+    </tr>
+    <tr>
+      <td>Weg</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>1</td>
+      <td>Babyleaf Lollo rossa</td>
+      <td>Buschbohne</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2</td>
+      <td>Radieschen</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>3</td>
+      <td>Babyleaf Kopfsalat</td>
+      <td>Buschbohne</td>
+    </tr>
+    <!-- usw. bei Nachfrage -->
+  </table>
+  <a href="~.html"><img src="Logo.jpg" /></a>
+</html>
